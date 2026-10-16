@@ -22,3 +22,4 @@ Episodes discussing **team building**:
 - [Rachel Lockett](../episodes/rachel-lockett/transcript.md)
 - [Shishir Mehrotra](../episodes/shishir-mehrotra/transcript.md)
 - [Shreyas Doshi Live](../episodes/shreyas-doshi-live/transcript.md)
+- [Wes Kao 2.0](../episodes/wes-kao-20/transcript.md)

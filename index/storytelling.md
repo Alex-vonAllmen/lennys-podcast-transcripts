@@ -9,3 +9,6 @@ Episodes discussing **storytelling**:
 - [Nancy Duarte](../episodes/nancy-duarte/transcript.md)
 - [Petra Wille](../episodes/petra-wille/transcript.md)
 - [Yamashata](../episodes/yamashata/transcript.md)
+- [Andy Raskin](../episodes/andy-raskin_/transcript.md)
+- [April Dunford 2.0](../episodes/april-dunford-20/transcript.md)
+- [Bob Moesta 2.0](../episodes/bob-moesta-20/transcript.md)

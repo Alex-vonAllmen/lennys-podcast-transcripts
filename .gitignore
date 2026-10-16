@@ -1,0 +1,17 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.py[cod]
+.mypy_cache/
+
+# Local credentials and environment overrides
+.env
+.env.*
+!.env.example
+secrets/
+*.key
+*.pem
+*.token
+
+# Local WeKnora upload bookkeeping contains deployment-specific IDs
+scripts/lenny-existing-episodes.json

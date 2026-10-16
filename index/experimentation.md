@@ -19,3 +19,7 @@ Episodes discussing **experimentation**:
 - [Sam Schillace](../episodes/sam-schillace/transcript.md)
 - [Sri Batchu](../episodes/sri-batchu/transcript.md)
 - [Tim Holley](../episodes/tim-holley/transcript.md)
+- [Elena Verna 3.0](../episodes/elena-verna-30/transcript.md)
+- [Hamel Husain & Shreya Shankar](../episodes/hamel-husain-shreya-shankar/transcript.md)
+- [Jake Knapp + John Zeratsky 2.0](../episodes/jake-knapp-john-zeratsky-20/transcript.md)
+- [Nicole Forsgren 2.0](../episodes/nicole-forsgren-20/transcript.md)

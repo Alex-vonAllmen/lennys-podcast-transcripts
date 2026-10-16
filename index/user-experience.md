@@ -10,3 +10,4 @@ Episodes discussing **user experience**:
 - [Katie Dill](../episodes/katie-dill/transcript.md)
 - [Krithika Shankarraman](../episodes/krithika-shankarraman/transcript.md)
 - [Merci Grace](../episodes/merci-grace/transcript.md)
+- [Nan Yu](../episodes/nan-yu/transcript.md)

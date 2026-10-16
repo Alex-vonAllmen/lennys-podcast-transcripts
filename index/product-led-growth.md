@@ -25,3 +25,4 @@ Episodes discussing **product-led growth**:
 - [Zoelle Egner](../episodes/zoelle-egner/transcript.md)
 - [Hila Qu](../episodes/hila-qu/transcript.md)
 - [Nilan Peiris](../episodes/nilan-peiris/transcript.md)
+- [Elena Verna 2.0](../episodes/elena-verna-20/transcript.md)
