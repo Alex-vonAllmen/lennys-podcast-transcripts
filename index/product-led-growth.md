@@ -21,7 +21,7 @@ Episodes discussing **product-led growth**:
 - [Oji Udezue](../episodes/oji-udezue/transcript.md)
 - [Shaun Clowes](../episodes/shaun-clowes/transcript.md)
 - [Varun Parmar](../episodes/varun-parmar/transcript.md)
-- [Yamashata](../episodes/yamashata/transcript.md)
+- [Yuhki Yamashata](../episodes/yuhki-yamashata/transcript.md)
 - [Zoelle Egner](../episodes/zoelle-egner/transcript.md)
 - [Hila Qu](../episodes/hila-qu/transcript.md)
 - [Nilan Peiris](../episodes/nilan-peiris/transcript.md)

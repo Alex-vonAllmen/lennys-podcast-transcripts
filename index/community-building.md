@@ -8,4 +8,4 @@ Episodes discussing **community building**:
 - [Nikhyl Singhal](../episodes/nikhyl-singhal/transcript.md)
 - [Sriram and Aarthi](../episodes/sriram-and-aarthi/transcript.md)
 - [Teaser_2021](../episodes/teaser_2021/transcript.md)
-- [Yamashata](../episodes/yamashata/transcript.md)
+- [Yuhki Yamashata](../episodes/yuhki-yamashata/transcript.md)
