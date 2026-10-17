@@ -11,4 +11,4 @@ Episodes discussing **OKRs**:
 - [Ravi Mehta](../episodes/ravi-mehta/transcript.md)
 - [Ray Cao](../episodes/ray-cao/transcript.md)
 - [Varun Parmar](../episodes/varun-parmar/transcript.md)
-- [Yamashata](../episodes/yamashata/transcript.md)
+- [Yuhki Yamashata](../episodes/yuhki-yamashata/transcript.md)

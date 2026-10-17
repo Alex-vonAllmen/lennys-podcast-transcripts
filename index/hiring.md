@@ -23,7 +23,7 @@ Episodes discussing **hiring**:
 - [Phyl Terry](../episodes/phyl-terry/transcript.md)
 - [Bob Moesta 2.0](../episodes/bob-moesta-20/transcript.md)
 - [Casey Winters](../episodes/casey-winters_/transcript.md)
-- [Elena Verna 3.0](../episodes/elena-verna-30/transcript.md)
+- [Elena Verna](../episodes/elena-verna/transcript.md)
 - [Jen Abel 2.0](../episodes/jen-abel-20/transcript.md)
 - [Peter Deng](../episodes/peter-deng/transcript.md)
 - [Yuhki Yamashata](../episodes/yuhki-yamashata/transcript.md)
